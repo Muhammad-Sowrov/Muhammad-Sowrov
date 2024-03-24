@@ -12,7 +12,7 @@
 
 - I am currently learning Next Js.
 - Contact with me **muhammadsowrov53@gmail.com**
-- Download My [Resume](https://docs.google.com/document/d/1MiTOIGrx7C-3hTmS3Qhxz2bayZ79Lu7mt_CLAZAT0As/edit?usp=sharing)
+- Download My [Resume](https://drive.google.com/file/d/1DePy3NWScm2r9c4tMjWAd-WdPw2ikIka/view?usp=sharing)
 
 ## 🛠 Skills
 
